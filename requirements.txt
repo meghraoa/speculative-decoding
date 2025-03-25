@@ -1,0 +1,7 @@
+transformers
+bitsandbytes
+torch
+datasets
+tqdm
+matplotlib
+numpy
